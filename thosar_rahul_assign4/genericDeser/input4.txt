@@ -1,0 +1,180 @@
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=1>
+<type=short, var=ShortValue, value=14>
+<type=int, var=IntValue, value=40>
+<type=long, var=LongValue, value=400>
+<type=float, var=FloatValue, value=71.4>
+<type=double, var=DoubleValue, value=33.14>
+<type=boolean, var=BooleanValue, value=false>
+<type=char, var=CharValue, value=S>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=50>
+<type=long, var=LongValue, value=487>
+<type=long, var=LongValue2, value=781>
+<type=double, var=DoubleValue, value=38.23>
+<type=double, var=DoubleValue2, value=13.145>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=12>
+<type=short, var=ShortValue, value=50>
+<type=int, var=IntValue, value=487>
+<type=long, var=LongValue, value=781>
+<type=float, var=FloatValue, value=38.23>
+<type=double, var=DoubleValue, value=13.145>
+<type=boolean, var=BooleanValue, value=true>
+<type=char, var=CharValue, value=T>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=1>
+<type=short, var=ShortValue, value=14>
+<type=long, var=LongValue, value=40>
+<type=long, var=LongValue2, value=400>
+<type=double, var=DoubleValue, value=71.4>
+<type=double, var=DoubleValue2, value=33.14>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=1>
+<type=short, var=ShortValue, value=14>
+<type=long, var=LongValue, value=40>
+<type=long, var=LongValue2, value=400>
+<type=double, var=DoubleValue, value=71.4>
+<type=double, var=DoubleValue2, value=33.14>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=50>
+<type=long, var=LongValue, value=487>
+<type=long, var=LongValue2, value=781>
+<type=double, var=DoubleValue, value=38.23>
+<type=double, var=DoubleValue2, value=13.145>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=12>
+<type=short, var=ShortValue, value=50>
+<type=int, var=IntValue, value=487>
+<type=long, var=LongValue, value=781>
+<type=float, var=FloatValue, value=38.23>
+<type=double, var=DoubleValue, value=13.145>
+<type=boolean, var=BooleanValue, value=true>
+<type=char, var=CharValue, value=T>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=1>
+<type=short, var=ShortValue, value=14>
+<type=int, var=IntValue, value=40>
+<type=long, var=LongValue, value=400>
+<type=float, var=FloatValue, value=71.4>
+<type=double, var=DoubleValue, value=33.14>
+<type=boolean, var=BooleanValue, value=false>
+<type=char, var=CharValue, value=S>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=100>
+<type=short, var=ShortValue, value=50>
+<type=int, var=IntValue, value=487>
+<type=long, var=LongValue, value=7581>
+<type=float, var=FloatValue, value=38.23>
+<type=double, var=DoubleValue, value=13.145>
+<type=boolean, var=BooleanValue, value=true>
+<type=char, var=CharValue, value=T>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=1>
+<type=short, var=ShortValue, value=14>
+<type=int, var=IntValue, value=4078>
+<type=long, var=LongValue, value=400>
+<type=float, var=FloatValue, value=71.4>
+<type=double, var=DoubleValue, value=33.14>
+<type=boolean, var=BooleanValue, value=false>
+<type=char, var=CharValue, value=S>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=100>
+<type=short, var=ShortValue, value=50>
+<type=int, var=IntValue, value=487>
+<type=long, var=LongValue, value=7581>
+<type=float, var=FloatValue, value=38.23>
+<type=double, var=DoubleValue, value=13.145>
+<type=boolean, var=BooleanValue, value=true>
+<type=char, var=CharValue, value=T>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=1>
+<type=short, var=ShortValue, value=14>
+<type=int, var=IntValue, value=4078>
+<type=long, var=LongValue, value=400>
+<type=float, var=FloatValue, value=71.4>
+<type=double, var=DoubleValue, value=33.14>
+<type=boolean, var=BooleanValue, value=false>
+<type=char, var=CharValue, value=S>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.First>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=14>
+<type=long, var=LongValue, value=40>
+<type=long, var=LongValue2, value=400>
+<type=double, var=DoubleValue, value=71.4>
+<type=double, var=DoubleValue2, value=33.14>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=502>
+<type=long, var=LongValue, value=487>
+<type=long, var=LongValue2, value=781>
+<type=double, var=DoubleValue, value=38.23>
+<type=double, var=DoubleValue2, value=13.145>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=14>
+<type=long, var=LongValue, value=40>
+<type=long, var=LongValue2, value=400>
+<type=double, var=DoubleValue, value=71.4>
+<type=double, var=DoubleValue2, value=33.14>
+<type=String, var=StringValue, value=April>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=12>
+<type=short, var=ShortValue, value=502>
+<type=long, var=LongValue, value=487>
+<type=long, var=LongValue2, value=781>
+<type=double, var=DoubleValue, value=38.23>
+<type=double, var=DoubleValue2, value=13.145>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.Second>
+<type=short, var=ShortValue2, value=2>
+<type=short, var=ShortValue, value=502>
+<type=long, var=LongValue, value=487>
+<type=long, var=LongValue2, value=781>
+<type=double, var=DoubleValue, value=38.23>
+<type=double, var=DoubleValue2, value=13.145>
+<type=String, var=StringValue, value=May>
+</fqn:genericDeser.util.Second>
+<fqn:genericDeser.util.First>
+<type=byte, var=ByteValue, value=100>
+<type=short, var=ShortValue, value=50>
+<type=int, var=IntValue, value=487>
+<type=long, var=LongValue, value=7581>
+<type=float, var=FloatValue, value=38.23>
+<type=double, var=DoubleValue, value=13.145>
+<type=boolean, var=BooleanValue, value=true>
+<type=char, var=CharValue, value=T>
+<type=String, var=StringValue, value=March>
+</fqn:genericDeser.util.First>
