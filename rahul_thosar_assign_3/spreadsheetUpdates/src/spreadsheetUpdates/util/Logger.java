@@ -1,5 +1,5 @@
 
-package registrationScheduler.util;
+package spreadsheetUpdates.util;
 
 public class Logger{
     /*DEBUG_VALUE=4 [Print to stdout everytime a constructor is called]
@@ -19,6 +19,15 @@ public class Logger{
 	switch (levelIn) {
 	  case 4: debugLevel = DebugLevel.CONSTRUCTOR; break;
 	      // add code for other cases
+	  case 3:
+			debugLevel = DebugLevel.IN_RUN;
+			break;
+		case 2:
+			debugLevel = DebugLevel.IN_RESULTS;
+			break;
+		case 1:
+			debugLevel = DebugLevel.FROM_RESULTS;
+			break;
 	  case 0: debugLevel = DebugLevel.RELEASE; break;
 	}
     }
