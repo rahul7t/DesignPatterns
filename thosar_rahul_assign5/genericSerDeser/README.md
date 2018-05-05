@@ -1,9 +1,9 @@
-#CS542 Design Patterns
-##Spring 2017
-##ASSIGNMENT 5 README FILE
-##Goal: Comparing Objects in Java
+# CS542 Design Patterns
+## Spring 2017
+## ASSIGNMENT 5 README FILE
+## Goal: Comparing Objects in Java
 
-##command to untar
+## command to untar
 tar -zxvf thosar_rahul_assign5.tar.gz 
 
 Assuming you are in the directory thosar_rahul_assign5\genericSerDeser:
@@ -60,21 +60,21 @@ offense.”
 
 -----------------------------------------------------------------------
 
-Provide justification for Data Structures used in this assignment in
+## Justification for Data Structures used in this assignment in
 term of Big O complexity (time and/or space)
-
+```
 For this assignment, I chose an ArrayList to store my first and second object.
 Majority of my logic requires addition and retreiving on objects (sometimes duplicate) in lists.
 ArrayList provides appropriate api to perform such operation quickly. 
 ArrayList allow to store duplicate objects and also maintain insertion order.
 The time complexity for add is O(1), get is O(1)
-
+```
 ArrayList have Space Complexity of O(n), and doubles in size when full
 
 
 -----------------------------------------------------------------------
 
-Provide list of citations (urls, etc.) from where you have taken code
+## Code References
 (if any).
 Reading file:
 http://stackoverflow.com/questions/13185727/reading-a-txt-file-using-scanner-class-in-java

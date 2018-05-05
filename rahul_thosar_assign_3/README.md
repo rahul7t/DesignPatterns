@@ -1,9 +1,9 @@
-#CS542 Design Patterns
-##Spring 2017
-##ASSIGNMENT 3 README FILE
-##Goal: Replicate spreadsheet dependent cell update feature using **Observer pattern**
+# CS542 Design Patterns
+## Spring 2017
+## ASSIGNMENT 3 README FILE
+## Goal: Replicate spreadsheet dependent cell update feature using **Observer pattern**
 
-##command to untar
+## command to untar
 tar -zxvf rahul_thosar_assign_3.tar.gz 
 
 Assuming you are in the directory rahul_thosar_assign_3\spreadsheetUpdates:
@@ -45,15 +45,15 @@ offense.”
 
 -----------------------------------------------------------------------
 
-Provide justification for Data Structures used in this assignment in
+## Justification for Data Structures used in this assignment in
 term of Big O complexity (time and/or space)
-
+```
 For this assignment, I chose an arraylist of cells object.
 Since most of my code does add and remove from list, It provided speed in adding and removing the object observers
 The time complexity for add is O(1), get is O(1) and remove is O(n)
 Student object contains all the necessary details like reg time, preferences and score.
 Vectors grow in size 50%, hence they are easy on utilizing space
-
+```
 
 Algorithm used to detect cycle:
 I have maintaind two lists, one of subjects and one of observers.
@@ -69,7 +69,7 @@ use recursion to detect multiple level algo.
 
 -----------------------------------------------------------------------
 
-Provide list of citations (urls, etc.) from where you have taken code
+## Code references
 (if any).
 Reading file:
 http://stackoverflow.com/questions/13185727/reading-a-txt-file-using-scanner-class-in-java
