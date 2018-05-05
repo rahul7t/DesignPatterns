@@ -44,13 +44,13 @@ offense.”
 
 # Justification for Data Structures used in this assignment in
 term of Big O complexity (time and/or space)
-
+```
 *For this assignment, a vector of student object was used to handle the data.*
 *This is because vectors are thread safe*
 *The time complexity for add is O(1), get is O(1) and remove is O(n)*
 *Student object contains all the necessary details like reg time, preferences and score.*
 *Vectors grow in size by double.*
------------------------------------------------------------------------
+```
 
 Code References
 (if any).
