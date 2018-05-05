@@ -1,7 +1,7 @@
-#CS542 Design Patterns
-##Spring 2017
-##ASSIGNMENT 1 README FILE
-##Goal: Schedule Student course registration according to their preference.
+# CS542 Design Patterns
+## Spring 2017
+## ASSIGNMENT 1 README FILE
+## Goal: Schedule Student course registration according to their preference.
 
 Assuming you are in the directory containing this README:
 
@@ -17,7 +17,7 @@ ant -buildfile src/build.xml -Darg0=reg-preference.txt -Darg1=add-drop.txt -Darg
 
 -----------------------------------------------------------------------
 ## To run by specifying arguments from command line 
-## We will use this to run your code
+
 
 ant -buildfile src/build.xml run -Darg0=reg-preference.txt -Darg1=add-drop.txt -Darg2=output.txt -Darg3=1 -Darg4=1
 
@@ -42,17 +42,17 @@ offense.”
 
 -----------------------------------------------------------------------
 
-Provide justification for Data Structures used in this assignment in
+# Justification for Data Structures used in this assignment in
 term of Big O complexity (time and/or space)
 
-For this assignment, a vector of student object was used to handle the data.
-This is because vectors are thread safe
-The time complexity for add is O(1), get is O(1) and remove is O(n)
-Student object contains all the necessary details like reg time, preferences and score.
-Vectors grow in size by double.
+*For this assignment, a vector of student object was used to handle the data.*
+*This is because vectors are thread safe*
+*The time complexity for add is O(1), get is O(1) and remove is O(n)*
+*Student object contains all the necessary details like reg time, preferences and score.*
+*Vectors grow in size by double.*
 -----------------------------------------------------------------------
 
-Provide list of citations (urls, etc.) from where you have taken code
+Code References
 (if any).
 Reading file:
 http://stackoverflow.com/questions/13185727/reading-a-txt-file-using-scanner-class-in-java
