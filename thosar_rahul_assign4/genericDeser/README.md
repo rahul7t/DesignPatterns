@@ -1,6 +1,7 @@
-
-command to untar
-tar -zxvf rahul_thosar_assign_2.tar.gz 
+#CS542 Design Patterns
+##Spring 2017
+##ASSIGNMENT 4 README FILE
+##Goal: Deserialize custom markup language from file, create objects using **Java reflection** and count instances.
 
 Assuming you are in the directory containing this README:
 

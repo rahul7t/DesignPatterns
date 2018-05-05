@@ -1,9 +1,9 @@
-CS542 Design Patterns
-Spring 2017
-ASSIGNMENT 5 README FILE
-Goal: Comparing Objects in Java
+#CS542 Design Patterns
+##Spring 2017
+##ASSIGNMENT 5 README FILE
+##Goal: Comparing Objects in Java
 
-command to untar
+##command to untar
 tar -zxvf thosar_rahul_assign5.tar.gz 
 
 Assuming you are in the directory thosar_rahul_assign5\genericSerDeser:
